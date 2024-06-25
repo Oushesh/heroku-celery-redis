@@ -9,7 +9,7 @@ load_dotenv()
 #redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0') #For local development
 
 #For production use redis_TLS_URL
-redis_url = os.getenv('REDIS_TLS_URL')
+redis_url = os.getenv('REDIS_TLS_URL','rediss://:pd2d5a49e95897e1b3d0f0f8fbb43cffad27226cc3c12aa9c8622f240e716683a@ec2-44-206-187-141.compute-1.amazonaws.com:17720')
 
 celery_app = Celery(
     'tasks',
