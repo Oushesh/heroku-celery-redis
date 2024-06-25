@@ -11,16 +11,11 @@
       * Add Heroku Redis Add-on:
         *  heroku addons:create heroku-redis
 
-
 ## Celery and Redis:
    * Redis installation: pip3 install redis kombu
    * test redis: bash redis.sh
-
    * Entry point: main_celer.py  
-
-
    * Setup of redis on heroku: https://devcenter.heroku.com/articles/heroku-redis
-
    
 ## Ref: 
    * 
