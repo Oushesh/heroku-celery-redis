@@ -6,7 +6,11 @@ import time
 load_dotenv()
 
 # Celery configuration
-redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0')
+#redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0') #For local development
+
+#For production use redis_TLS_URL
+redis_url = os.getenv('REDIS_TLS_URL')
+
 celery_app = Celery(
     'tasks',
     broker=redis_url,
