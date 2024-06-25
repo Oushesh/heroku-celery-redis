@@ -15,6 +15,7 @@ redis_tls_url = os.getenv('REDIS_TLS_URL','rediss://:pd2d5a49e95897e1b3d0f0f8fbb
 # Ensure ssl_cert_reqs parameter is set correctly
 redis_ssl_cert_reqs = os.getenv('REDIS_SSL_CERT_REQS', 'CERT_REQUIRED')
 
+"""
 celery_app = Celery(
     'tasks',
     broker=redis_tls_url,
@@ -23,14 +24,14 @@ celery_app = Celery(
         'ssl_cert_reqs': redis_ssl_cert_reqs
     },
 )
-
 """
+
 celery_app = Celery(
     'tasks',
     broker=redis_url,
     backend=redis_url,
 )
-"""
+
 
 @celery_app.task
 def add(x, y):
