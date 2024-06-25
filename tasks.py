@@ -6,10 +6,10 @@ import time
 load_dotenv()
 
 # Celery configuration
-redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0') #For local development
+#redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0') #For local development
 
 #For production
-redis_url = os.getenv('REDIS_URL','rediss://:pd2d5a49e95897e1b3d0f0f8fbb43cffad27226cc3c12aa9c8622f240e716683a@ec2-44-206-187-141.compute-1.amazonaws.com:17720')
+redis_url = os.getenv('REDIS_URL','redis://:pb17a8424bba4249eecf77d4b67b0759c42cad324429feb2ec6acc898fda95210@ec2-44-195-151-138.compute-1.amazonaws.com:29449')
 
 #For production use redis_TLS_URL
 redis_tls_url = os.getenv('REDIS_TLS_URL','rediss://:pd2d5a49e95897e1b3d0f0f8fbb43cffad27226cc3c12aa9c8622f240e716683a@ec2-44-206-187-141.compute-1.amazonaws.com:17720')
