@@ -1,0 +1,130 @@
+[
+  {
+    "Variant": "base",
+    "Rationale": "General approach targeting new website visitors unfamiliar with web scraping benefits.",
+    "USPs": "Simplifies complex data extraction, enhances data readiness",
+    "SuccessFramework": "Simple, Unexpected, Concrete, Credible, Emotional, Stories",
+    "TargetAudience": "Tech startups and SMEs",
+    "Tone": "Educational, Inviting",
+    "PsychologicalTriggers": "Curiosity, Solution-Oriented",
+    "Elements": [
+      {
+        "Element": "Headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h1",
+        "Content": "Get your data RAG-ready"
+      },
+      {
+        "Element": "Sub-headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-yyyy1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h2",
+        "Content": "Unstructured data handling at its best"
+      },
+      {
+        "Element": "Call to Action (CTA)",
+        "Class": ".framer-B9aLU",
+        "ID": "#3l9ach",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-zbrk1t-container > h2",
+        "Content": "Try Now"
+      }
+    ]
+  },
+  {
+    "Variant": "alpha",
+    "Rationale": "Targeting decision-makers in large corporations emphasizing reliability and scalability.",
+    "USPs": "Enterprise-grade data extraction, scalable and secure",
+    "SuccessFramework": "Credible, Concrete, Emotional",
+    "TargetAudience": "Enterprise decision-makers",
+    "Tone": "Professional, Confident",
+    "PsychologicalTriggers": "Authority, Security",
+    "Elements": [
+      {
+        "Element": "Headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h1",
+        "Content": "Elevate Your Enterprise Data Strategy"
+      },
+      {
+        "Element": "Sub-headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-yyyy1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h2",
+        "Content": "Scalable solutions for real-time data processing"
+      },
+      {
+        "Element": "Call to Action (CTA)",
+        "Class": ".framer-B9aLU",
+        "ID": "#3l9ach",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-zbrk1t-container > h2",
+        "Content": "Explore Our Solutions"
+      }
+    ]
+  },
+  {
+    "Variant": "beta",
+    "Rationale": "Focused on tech-savvy individuals highlighting speed and efficiency.",
+    "USPs": "Fast, efficient data extraction with minimal setup",
+    "SuccessFramework": "Simple, Concrete, Emotional",
+    "TargetAudience": "Developers and tech-savvy users",
+    "Tone": "Direct, Technical",
+    "PsychologicalTriggers": "Efficiency, Time-saving",
+    "Elements": [
+      {
+        "Element": "Headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h1",
+        "Content": "Streamline Your Development with Fast Data Extraction"
+      },
+      {
+        "Element": "Sub-headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-yyyy1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h2",
+        "Content": "Optimize your workflow with state-of-the-art technology"
+      },
+      {
+        "Element": "Call to Action (CTA)",
+        "Class": ".framer-B9aLU",
+        "ID": "#3l9ach",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-zbrk1t-container > h2",
+        "Content": "Get Started Now"
+      }
+    ]
+  },
+  {
+    "Variant": "gamma",
+    "Rationale": "Aimed at marketers to illustrate how web scraping can drive marketing strategies and decision-making.",
+    "USPs": "Data-driven insights for strategic marketing decisions",
+    "SuccessFramework": "Unexpected, Emotional, Stories",
+    "TargetAudience": "Digital marketers and agencies",
+    "Tone": "Persuasive, Insightful",
+    "PsychologicalTriggers": "Aspiration, Insight",
+    "Elements": [
+      {
+        "Element": "Headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h1",
+        "Content": "Harness the Power of Data for Your Marketing Strategy"
+      },
+      {
+        "Element": "Sub-headline",
+        "Class": ".framer-text",
+        "ID": "#undefined-10w3s8x",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-yyyy1hhxdnu-container > div.framer-LWvIJ > div > div.framer-1dtoadn-container > h2",
+        "Content": "Transform data into actionable marketing insights"
+      },
+      {
+        "Element": "Call to Action (CTA)",
+        "Class": ".framer-B9aLU",
+        "ID": "#3l9ach",
+        "SelectorPath": "html > body > div#main > div > div.framer-lcg8io > div.framer-zbrk1t-container > h2",
+        "Content": "Discover How"
+      }
+    ]
+  }
+]
